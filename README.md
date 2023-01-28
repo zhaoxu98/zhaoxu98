@@ -1,16 +1,22 @@
-### Hi there 👋
+<a href="#">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=zhaoxu98&count_private=true&show_icons=true" />
+</a>
 
-<!--
-**zhaoxu98/zhaoxu98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:tangerine: **About Me | 关于我**
 
-Here are some ideas to get you started:
+- :mailbox: E-mail: zhaohsu98@gmail.com
+- :custard: Blog: [Bill Hsu's Blog](https://xzbill.top)
+- :seedling: 关于我：一只对新事物永远热情的菜鸡，只会给炼丹炉烧火。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:tea: **Skills | 技能**
+
+![](https://img.shields.io/badge/-Python-3b77a7?style=flat-square&logo=Python&logoColor=fff)
+![](https://img.shields.io/badge/-PyTorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=fff)
+![](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=fff)
+![](https://img.shields.io/badge/-pandas-339933?style=flat-square&logo=pandas&logoColor=fff)
+![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
+![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
+
+:ice_cream: **Others | 其他**
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhaoxu98&layout=compact" />
