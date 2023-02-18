@@ -19,4 +19,4 @@
 
 :ice_cream: **Others | 其他**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhaoxu98&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhaoxu98&layout=compact&count_private=true" />
