@@ -1,5 +1,5 @@
 <a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=zhaoxu98&count_private=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=zhaoxu98&count_private=true&show_icons=true" />
 </a>
 
 :tangerine: **About Me | 关于我**
