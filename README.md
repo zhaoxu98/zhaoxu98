@@ -1,5 +1,5 @@
 <a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=zhaoxu98&count_private=true&show_icons=true" />
+  <img align="right" src="https://github-readme-stats-zhaoxu98.vercel.app/api?username=zhaoxu98&count_private=true&show_icons=true" />
 </a>
 
 :tangerine: **About Me | 关于我**
@@ -19,8 +19,4 @@
 
 :ice_cream: **Others | 其他**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhaoxu98&layout=compact&count_private=true" />
-
-
-<img src="https://github-readme-stats-zhaoxu98.vercel.app/api?username=zhaoxu98&count_private=true&show_icons=true" />
 <img src="https://github-readme-stats-zhaoxu98.vercel.app/api/top-langs/?username=zhaoxu98&layout=compact" />
