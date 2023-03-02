@@ -20,3 +20,4 @@
 :ice_cream: **Others | 其他**
 
 <img src="https://github-readme-stats-zhaoxu98.vercel.app/api/top-langs/?username=zhaoxu98&layout=compact" />
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="48166d2e-90e2-4d42-8091-435574bc3552" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
