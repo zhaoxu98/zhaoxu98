@@ -2,7 +2,7 @@
   <img align="right" src="https://github-readme-stats-zhaoxu98.vercel.app/api?username=zhaoxu98&count_private=true&show_icons=true" />
 </a>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=zhaoxu98.visitor-badge&left_text=My%20Page%20Visitors)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=zhaoxu98.zhaoxu98&left_text=My%20Page%20Visitors)
 
 :tangerine: **About Me | 关于我**
 
