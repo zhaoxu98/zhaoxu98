@@ -7,7 +7,7 @@
 :tangerine: **About Me | 关于我**
 
 - :mailbox: E-mail: zhaohsu98@gmail.com
-- :custard: Blog: [Bill Hsu's Blog](https://xzbill.top)
+- :custard: PersonalWebsite: [Zhao Xu](https://xzbill.top/zhaoxu)
 - :seedling: 关于我：一只对新事物永远热情的菜鸡，只会给炼丹炉烧火。
 
 :tea: **Skills | 技能**
