@@ -8,7 +8,7 @@
 
 - :mailbox: E-mail: zhaohsu98@gmail.com
 - :custard: PersonalWebsite: [Zhao Xu](https://xzbill.top/zhaoxu)
-- :seedling: 关于我：一只对新事物永远热情的菜鸡，只会给炼丹炉烧火。
+- :seedling: 关于我：一只对新事物永远热情的菜鸡
 
 :tea: **Skills | 技能**
 
