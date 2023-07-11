@@ -8,7 +8,7 @@
 
 - :mailbox: E-mail: zhaohsu98@gmail.com
 - :custard: PersonalWebsite: [Zhao Xu](https://xzbill.top/zhaoxu)
-- :seedling: About Me：To Be An Early Bird!
+- :seedling: About Me: To Be An Early Bird!
 
 :tea: **Skills | 技能**
 
