@@ -1,7 +1,11 @@
 <!--<a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=zhaoxu98&show_icons=true" /> </a>-->
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=zhaoxu98&show_icons=true" /> </a>
+  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=zhaoxu98.zhaoxu98&left_text=My%20Page%20Visitors)
+  -->
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=zhaoxu98.zhaoxu98&left_text=My%20Page%20Visitors)
+
+
+![](https://komarev.com/ghpvc/?username=zhaoxu98)
 
 :tangerine: **About Me | 关于我**
 
