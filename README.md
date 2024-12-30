@@ -15,6 +15,7 @@
 
 :tea: **Skills | 技能**
 
+![](https://img.shields.io/badge/-Hugging_Face-ffd21e?style=flat-square&logo=huggingface&logoColor=000000)
 ![](https://img.shields.io/badge/-Python-3b77a7?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-PyTorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=fff)
 ![](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=fff)
