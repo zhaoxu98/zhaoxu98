@@ -24,9 +24,9 @@
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 
 :ice_cream: **Others | 其他**
-
+<!--
 <img src="https://github-readme-stats-zhaoxu98.vercel.app/api/top-langs/?username=zhaoxu98&layout=compact" />
-
+  -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zhaoxu98/zhaoxu98/output/github-contribution-grid-snake-dark.svg">
