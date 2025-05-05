@@ -6,7 +6,7 @@
 
 
 ![](https://komarev.com/ghpvc/?username=zhaoxu98)
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/zhaoxu98?style=social"></a> 
+<a href="https://github.com/zhaoxu98"><img alt="GitHub followers" src="https://img.shields.io/github/followers/zhaoxu98?style=social"></a> 
 <a href="https://twitter.com/BillHsu98"><img src="https://img.shields.io/twitter/follow/BillHsu98?style=social" alt="visitors" style="margin-top: 0px"></a>
 
 :tangerine: **About Me | 关于我** 
