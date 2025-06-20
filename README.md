@@ -12,7 +12,7 @@
 :tangerine: **About Me | 关于我** 
 
 - :mailbox: E-mail: zhaohsu98@gmail.com
-- :custard: PersonalWebsite: [Zhao Xu](https://xzbill.top/zhaoxu)
+- :custard: PersonalWebsite: [Zhao Xu](https://zhaohsu.top/)
 - :seedling: About Me: To Be An Early Bird!
 
 :tea: **Skills | 技能**
